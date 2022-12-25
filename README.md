@@ -6,5 +6,9 @@ INSTALL
 git clone https://github.com/enzyme42/regolith-look-enzyme42.git
 cd regolith-look-enzyme42/
 sudo mv usr/share/regolith-look/enzyme42 /usr/share/regolith-look/enzyme42
+```
+
+USAGE
+```bash
 regolith-look-selector
 ```
