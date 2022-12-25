@@ -1,2 +1,2 @@
 # regolith-look-enzyme42
-Regolith Desktop 2 Theme
+Customized default look for Regolith Desktop 2 
