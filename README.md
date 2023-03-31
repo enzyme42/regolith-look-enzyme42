@@ -1,5 +1,5 @@
 # regolith-look-enzyme42
-Customized default-look for Regolith Linux 2 
+Customized default-look for Regolith Linux 2.
 
 INSTALL
 ```bash
