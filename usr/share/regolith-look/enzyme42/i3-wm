@@ -1,9 +1,9 @@
 #define i3wm_window_border_style         pixel
 #define i3wm_floatingwindow_border_style pixel
-#define i3wm_window_border_size          2
-#define i3wm_floatingwindow_border_size  1
-#define i3wm_gaps_inner_size             5
-#define i3wm_gaps_outer_size             1
+#define i3wm_window_border_size          1
+#define i3wm_floatingwindow_border_size  0
+#define i3wm_gaps_inner_size             2
+#define i3wm_gaps_outer_size             2
 #define i3wm_bar_position                top
 
 #define Q(x) #x
@@ -18,9 +18,9 @@ i3-wm.bar.background.color: color_dark_3
 i3-wm.bar.statusline.color: color_light_1
 i3-wm.bar.separator.color: color_blue
 
-i3-wm.bar.workspace.focused.border.color: color_light_4
-i3-wm.bar.workspace.focused.background.color: color_dark_3
-i3-wm.bar.workspace.focused.text.color: color_light_1
+i3-wm.bar.workspace.focused.border.color: color_light_5
+i3-wm.bar.workspace.focused.background.color: color_light_5
+i3-wm.bar.workspace.focused.text.color: color_dark_3
 
 i3-wm.bar.workspace.active.border.color: color_dark_2
 i3-wm.bar.workspace.active.background.color: color_dark_2
